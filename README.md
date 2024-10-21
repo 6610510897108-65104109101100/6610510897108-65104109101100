@@ -9,7 +9,7 @@ Skills: REACT / JS / HTML / CSS/PHP
 - 🔭 I’m currently working on Website creation 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about We Development 
+- 💬 Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/6610510897108-65104109101100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100053115953809)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@BilalAhmedAlBanna)  
