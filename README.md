@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/454381719_1023739909406531_9157715743779492775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG1mHdd4MrTwV4PJvUE7xFJ10pTLZnrwB_XSlMtmevAH8h9ZOqXm0qjWz72WyOC_tatY4lMv-zpmutsUZZ7x4Y0&_nc_ohc=hliTGhZnij8Q7kNvgGMgP1X&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=AkhzEyg4VAEwLQRAVk42P8b&oh=00_AYBlwv6eOlS532dpLycQqVqyHEMD5HcHESUnqJVDRDLEFA&oe=671C6B20)
+### Hi there 👋,I'am Bilal-Ahmed
+#### Web Developer
+![Full-stack Web Developer](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/454381719_1023739909406531_9157715743779492775_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG1mHdd4MrTwV4PJvUE7xFJ10pTLZnrwB_XSlMtmevAH8h9ZOqXm0qjWz72WyOC_tatY4lMv-zpmutsUZZ7x4Y0&_nc_ohc=hliTGhZnij8Q7kNvgGMgP1X&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=AkhzEyg4VAEwLQRAVk42P8b&oh=00_AYBlwv6eOlS532dpLycQqVqyHEMD5HcHESUnqJVDRDLEFA&oe=671C6B20)
 
 To empower fledgling business owners by providing them with professional, high-quality websites at an affordable cost. We strive to level the playing field and give small business owners the tools they need to succeed in today’s digital age and unleash their full potential. Our clients are at the heart of everything we do. We’re dedicated to providing personalized, attentive service to each and every one of our clients, and believe that building strong relationships is the key to our success. Moreover, we believe in building websites that are sustainable and scalable, ensuring that our clients are able to achieve their long-term goals.
 
